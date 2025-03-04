@@ -1,5 +1,5 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: radial-gradient(circle, #ff7e5f, #feb47b, #57addf, #63df44);
 }
